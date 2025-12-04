@@ -31,7 +31,7 @@
 <img src="./add-new-entry.png" width="300">
 </a>
 <img src="./pointer.gif" width="100">
-<br><br><br>
+<br><br><br><br><br>
 
 <img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
 
