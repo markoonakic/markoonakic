@@ -1,10 +1,10 @@
 <div align="center">
-<img src="./welcome.gif" width="225" /><br><br><br><br>
+<img src="./welcome.gif" width="225"><br><br><br><br>
 
 <img src="./recent-blog-posts.png" width="350" /><br>
 
 <a href="https://markonakic.xyz">
-<img src="./website.gif" width="250" /><br>
+<img src="./website.gif"><br>
 </a>
 
 
@@ -14,6 +14,6 @@
  [Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="./guestbook.png" width="250" /><br>
+<img src="./guestbook.png" width="250"><br>
 
 </div>
