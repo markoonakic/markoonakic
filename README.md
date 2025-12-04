@@ -29,7 +29,7 @@
 
 <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin:0;">
 <a href="https://github.com/markoonakic/markoonakic/issues/1">
-<img src="./add-new-entry.png" width="300">
+<img src="./add-new-entry.png" width="400">
 </a>
 <img src="./pointer.gif" width="100">
 </div>
