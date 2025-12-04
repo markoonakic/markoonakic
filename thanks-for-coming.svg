@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="80" viewBox="0 0 600 80">
+  <style>
+    /* 10s total: 1s pause off-screen right, 8s move, 1s pause off-screen left */
+    @keyframes scroll {
+      0%   { transform: translateX(100%); }   /* start off-screen right */
+      10%  { transform: translateX(100%); }   /* pause on the right */
+      90%  { transform: translateX(-100%); }  /* move to off-screen left */
+      100% { transform: translateX(-100%); }  /* pause on the left */
+    }
+
+    .marquee {
+      animation: scroll 10s linear infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+  </style>
+
+  <!-- your image; change href + size -->
+  <g class="marquee">
+    <image src="./thanks-for-coming.png">
+           x="0" y="10" height="60" />
+  </g>
+</svg>
