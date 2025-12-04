@@ -19,8 +19,8 @@
         }
       </style>
       <div class="marquee">
-        <img src="./thanks-for-coming.png"
-             alt="Thanks for coming!" />
+        <img src="https://raw.githubusercontent.com/markoonakic/markoonakic/main/thanks-for-coming.svg"
+        alt="Thanks for visiting me" width="100%" height="120" />
       </div>
     </div>
   </foreignObject>
