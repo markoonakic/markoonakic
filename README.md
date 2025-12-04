@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./welcome.gif" width="225"><br><br><br><br>
 
-<img src="me.png" width="200">
+<img src="me.png" width="500">
 <img src="wizard-on-computer.gif" width="90">
 <br><br><br><br>
 
