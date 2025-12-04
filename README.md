@@ -2,7 +2,7 @@
 <img src="./welcome.gif" width="225"><br><br><br><br>
 
 <a href="https://markonakic.xyz">
-  <img src="globe.png" alt="My website" width="50">
+  <img src="globe.png" alt="My website" width="75">
 </a><br>
 
 <img src="./recent-blog-posts.png" width="350">
