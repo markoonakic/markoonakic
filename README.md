@@ -2,6 +2,10 @@
 <img src="./welcome.gif" width="225"><br><br><br><br>
 
 <a href="https://markonakic.xyz">
+  <img src="click.png" alt="Click" width="100">
+</a><br>
+
+<a href="https://markonakic.xyz">
   <img src="globe.png" alt="My website" width="75">
 </a><br><br><br>
 
