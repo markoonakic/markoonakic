@@ -16,6 +16,6 @@
 
 <img src="./guestbook.png" width="250"><br>
 
-<img src="./thanks-for-coming.png" width="250"><br>
+<img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
 
 </div>
