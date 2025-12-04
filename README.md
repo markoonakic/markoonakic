@@ -28,10 +28,8 @@
 <!-- /Guestbook -->
 
 <br>
-<a href="https://github.com/markoonakic/markoonakic/issues/1">
 <img src="./add-a-new-entry.gif" width="225">
 <img src="./pointer.gif" width="225">
-</a>
 <br><br><br>
 
 <img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
