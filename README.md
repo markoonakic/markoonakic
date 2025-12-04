@@ -17,7 +17,7 @@
  [Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br><br><img src="./guestbook.png" width="230"><br>
+<br><br><br><img src="./guestbook.png" width="300"><br>
 
 <img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
 
