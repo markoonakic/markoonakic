@@ -1,4 +1,6 @@
-# Hi there 👋
+<div align="center">
+<img src="./winter-welcome.gif" width="400" />
+</div>
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
