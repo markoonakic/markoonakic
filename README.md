@@ -1,11 +1,18 @@
 <div align="center">
-<img src="./welcome.gif" width="225" /><br><br><br>
+<img src="./welcome.gif" width="225" /><br><br><br><br>
 
 <img src="./recent-blog-posts.png" width="350" /><br>
+
+<a href="https://markonakic.xyz">
+<img src="./website.gif" width="250" /><br>
+</a>
 
 <!-- BLOG-POST-LIST:START -->
  [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
 
  [Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
 <!-- BLOG-POST-LIST:END -->
+
+<img src="./guestbook.png" width="250" /><br>
+
 </div>
