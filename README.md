@@ -28,7 +28,7 @@
 <!-- /Guestbook -->
 
 <a href="https://github.com/markoonakic/markoonakic/issues/1">
-  <img src="./add-new-entry.png" width="180">
+  <img src="./add-new-entry.svg" width="180">
 </a>
 <br><br><br><br><br>
 
