@@ -18,6 +18,7 @@
 
   <!-- your image; change href + size -->
   <g class="marquee">
-    <image href="./thanks-for-coming.png" x="0" y="10" height="60">
+    <image href="https://raw.githubusercontent.com/markoonakic/markoonakic/main/thanks-for-coming.png"
+       x="0" y="10" height="60">
   </g>
 </svg>
