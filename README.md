@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./winter-welcome.gif" width="400" />
+<img src="./welcome.gif" width="400" />
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
