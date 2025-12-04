@@ -3,7 +3,7 @@
 
 <a href="https://markonakic.xyz">
   <img src="globe.png" alt="My website" width="75">
-</a><br>
+</a><br><br><br>
 
 <img src="./recent-blog-posts.png" width="350">
 
