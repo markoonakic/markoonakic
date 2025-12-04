@@ -19,7 +19,7 @@
         }
       </style>
       <div class="marquee">
-        <img src="https://raw.githubusercontent.com/markoonakic/markoonakic/main/thanks-for-coming.png"
+        <img src="./thanks-for-coming.png"
              alt="Thanks for coming!" />
       </div>
     </div>
