@@ -19,6 +19,23 @@
 
 <br><br><br><img src="./guestbook.png" width="300"><br>
 
+<!-- Guestbook -->
+|
+ Name 
+|
+ Date 
+|
+ Message 
+|
+|
+---
+|
+---
+|
+---
+|
+<!-- /Guestbook -->
+
 <img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
 
 </div>
