@@ -1,12 +1,11 @@
 <div align="center">
 <img src="./welcome.gif" width="225"><br><br><br><br>
 
-<img src="./recent-blog-posts.png" width="350" /><br>
-
 <a href="https://markonakic.xyz">
 <img src="./website.gif"><br>
 </a>
 
+<img src="./recent-blog-posts.png" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
  [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
