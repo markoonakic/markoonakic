@@ -27,7 +27,7 @@
 | <a href="https://github.com/markoonakic"><img width="24" src="https://avatars.githubusercontent.com/u/44709426?s=24&u=5e61356d952cba844fabd3f593c5999af5b7029f&v=4" alt="markoonakic" /> markoonakic</a> |12/4/2025, 4:28:44 PM|🦧 First!|
 <!-- /Guestbook -->
 
-<div>
+<div style="display:flex; align-items:center; justify-content:center; gap:12px; margin:0;">
 <a href="https://github.com/markoonakic/markoonakic/issues/1">
 <img src="./add-new-entry.png" width="300">
 </a>
