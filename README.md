@@ -7,6 +7,7 @@
 <img src="./website.gif" width="250" /><br>
 </a>
 
+
 <!-- BLOG-POST-LIST:START -->
  [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
 
