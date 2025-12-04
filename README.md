@@ -31,6 +31,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/VeljkoRakic21"><img width="24" src="https://avatars.githubusercontent.com/u/166437464?s=24&v=4" alt="VeljkoRakic21" /> VeljkoRakic21</a> |12/4/2025, 7:20:43 PM|Great job!👏|
 | <a href="https://github.com/markoonakic"><img width="24" src="https://avatars.githubusercontent.com/u/44709426?s=24&u=5e61356d952cba844fabd3f593c5999af5b7029f&v=4" alt="markoonakic" /> markoonakic</a> |12/4/2025, 4:28:44 PM|🦧 First!|
 <!-- /Guestbook -->
 
