@@ -27,10 +27,17 @@
 | <a href="https://github.com/markoonakic"><img width="24" src="https://avatars.githubusercontent.com/u/44709426?s=24&u=5e61356d952cba844fabd3f593c5999af5b7029f&v=4" alt="markoonakic" /> markoonakic</a> |12/4/2025, 4:28:44 PM|🦧 First!|
 <!-- /Guestbook -->
 
-<a href="https://github.com/markoonakic/markoonakic/issues/1">
-<img src="./add-new-entry.png" width="240">
-</a>
-<img src="./pointer.gif" width="100">
+<div style="display:flex; align-items:center; gap:16px;">
+  <a href="https://github.com/markoonakic/markoonakic/issues/1"
+     style="display:inline-block; text-decoration:none; margin:0;">
+    <img src="./add-new-entry.png"
+         width="240"
+         style="display:block; margin:0;">
+  </a>
+  <img src="./pointer.gif"
+       width="100"
+       style="display:block; margin:0;">
+</div>
 <br><br><br><br><br>
 
 <img src="./thanks-for-coming.svg" alt="Thanks for coming!"><br>
