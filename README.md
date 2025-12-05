@@ -16,6 +16,7 @@
 </a><br><br><br><br>
 
 <img src="/assets/recent-blog-posts.png" width="350">
+<br>
 
 <!-- BLOG-POST-LIST:START -->
 [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
