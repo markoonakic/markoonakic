@@ -18,12 +18,8 @@
 <img src="/assets/recent-blog-posts.png" width="350">
 
 <!-- BLOG-POST-LIST:START -->
-
 [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
-
-[Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
-
-<!-- BLOG-POST-LIST:END -->
+[Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)<!-- BLOG-POST-LIST:END -->
 
 <br><br><img src="/assets/guestbook.png" width="300">
 <br>
