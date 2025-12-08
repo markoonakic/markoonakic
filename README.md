@@ -19,6 +19,8 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+[Remote Access Architecture of My Kubernetes Homelab](https://markonakic.xyz/posts/remote-access/)
+
 [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
 
 [Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
