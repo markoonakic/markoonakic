@@ -19,11 +19,13 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+[List Available Azure Regions and VM Sizes for Your Subscription](https://markonakic.xyz/posts/list-available-azure/)
+
 [Remote Access Architecture of My Kubernetes Homelab](https://markonakic.xyz/posts/remote-access/)
 
 [Installing Talos Linux](https://markonakic.xyz/posts/talos-install/)
 
-[Remote decryption using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
+[Remote Secryption Using Dropbear SSH](https://markonakic.xyz/posts/dropbear-shh/)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br><img src="/assets/guestbook.png" width="300">
