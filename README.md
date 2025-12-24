@@ -19,6 +19,8 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+[Building Milutin: My AI-Powered Zettelkasten System](https://markonakic.xyz/posts/milutin/)
+
 [List Available Azure Regions and VM Sizes for Your Subscription](https://markonakic.xyz/posts/list-available-azure/)
 
 [Remote Access Architecture of My Kubernetes Homelab](https://markonakic.xyz/posts/remote-access/)
